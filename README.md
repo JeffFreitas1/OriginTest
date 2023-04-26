@@ -9,6 +9,7 @@ You will need to install:
 # Getting Started
 
 This project automates 4 test cases for Origin Savings:
+
 1 - Simulate the current month of a user determined value of savings
 
 2 - Simulate two months of a user determined value of savings

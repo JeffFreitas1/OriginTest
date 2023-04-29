@@ -3,7 +3,8 @@
 You will need to install:
 
 1. Node.js (https://nodejs.org/en)
-2. Mocha, to install mocha go to your terminal in your IDE and run the command ``npm i mocha --save-dev``
+2. npm, run the command in your ide terminal ``npm install -g npm``
+3. Mocha, to install mocha go to your terminal in your IDE and run the command ``npm i mocha --save-dev``
 
 
 # Getting Started
